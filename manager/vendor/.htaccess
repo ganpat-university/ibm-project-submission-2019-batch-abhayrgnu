@@ -1,0 +1,5 @@
+RewriteEngine On
+AuthType Basic
+AuthName "Restricted Content"
+AuthUserFile C:\xampp\htdocs\sem-viii-ibm-g02-digital-access-code-generation\user\vendor\.htpasswd
+Require valid-user
